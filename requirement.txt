@@ -1,0 +1,4 @@
+git+https://git.dcs.gla.ac.uk/DerekSomerville/utility
+git+https://git.dcs.gla.ac.uk/DerekSomerville/class_structure
+git+https://git.dcs.gla.ac.uk/DerekSomerville/repository_save
+python-dateutil==2.9.0.post0

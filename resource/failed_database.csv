@@ -1,0 +1,54 @@
+..\refactor_code_base\src\resource\database\acs-aem-commons.db,UNIQUE constraint failed: repository.url../refactor_code_base/src/resource/database/cxf.db,database is locked../refactor_code_base/src/resource/database/druid.db,UNIQUE constraint failed: developer.name../refactor_code_base/src/resource/database/elasticsearch.db,database is locked../refactor_code_base/src/resource/database/elasticsearch.db-journal,file is not a database..\refactor_code_base\src\resource\database\junit5.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/a_refactoring-toy-example.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/elasticsearch.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/elasticsearch.db-journal,no such table: repository
+../refactor_code_base/src/resource/database/eventmesh.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/groovy.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/hadoop.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/hermes.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/hertzbeat.db,UNIQUE constraint failed: repository.url
+../refactor_code_base/src/resource/database/incubator-seata.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/intellij-community.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/intellij-community.db-journal,no such table: repository
+../refactor_code_base/src/resource/database/junit4.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/kafka.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/kapua.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/maven.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/mockito.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/nacos.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/RefactoringMiner.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/sentinel.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/spring-cloud-alibaba.db,UNIQUE constraint failed: repository.url
+../refactor_code_base/src/resource/database/a_refactoring-toy-example.db,can only concatenate str (not "int") to str
+../refactor_code_base/src/resource/database/elasticsearch.db-journal,no such table: repository
+../refactor_code_base/src/resource/database/acs-aem-commons.db,UNIQUE constraint failed: developer.name
+../refactor_code_base/src/resource/database/acs-aem-commons.db,UNIQUE constraint failed: developer_commit.commit_id
+../refactor_code_base/src/resource/database/acs-aem-commons.db,UNIQUE constraint failed: developer_commit.commit_id
+../refactor_code_base/src/resource/database/acs-aem-commons.db,UNIQUE constraint failed: repository.url
+..\refactor_code_base\src\resource\database\junit5.db,UNIQUE constraint failed: developer.name
+..\refactor_code_base\src\resource\database\acs-aem-commons.db,''NoneType'' object is not iterable
+../refactor_code_base/src/resource/database/junit5.db,UNIQUE constraint failed: developer.name
+../refactor_code_base/src/resource/database/solr.db,UNIQUE constraint failed: developer_commit.commit_id
+../refactor_code_base/src/resource/database/packages_apps_settings.db,''int'' object has no attribute ''name''
+../refactor_code_base/src/resource/database/mindustry.db,''int'' object has no attribute ''name''
+../refactor_code_base/src/resource/database/airbyte-platform.db,''int'' object has no attribute ''name''
+../refactor_code_base/src/resource/database/airbyte-platform.db,''int'' object has no attribute ''name''
+..\refactor_code_base\src\resource\database\intellij-community.db,name ''PopulatePriorCommit'' is not defined
+..\refactor_code_base\src\resource\database\intellij-community.db,no such table: prior_commit
+..\refactor_code_base\src\resource\database\refactoring-toy-example.db,no such table: prior_amend_commit
+..\refactor_code_base\src\resource\database\refactoring-toy-example.db,no such table: prior_total_commit
+../refactor_code_base/src/resource/database/refactoring-toy-example.db,type object ''ListUtility'' has no attribute ''strip_list_from_delimiter''
+../refactor_code_base/src/resource/database/refactoring-toy-example.db,type object ''ListUtility'' has no attribute ''strip_list_from_delimiter''
+../refactor_code_base/src/resource/database/refactoring-toy-example.db,ListUtility.strip_list_from_delimiter() missing 1 required positional argument: ''delimiter''
+../refactor_code_base/src/resource/database/a_refactoring-toy-example.db,UNIQUE constraint failed: repository.url
+../refactor_code_base/src/resource/database/camel-spring-boot.db,UNIQUE constraint failed: developer_commit.commit_id
+../refactor_code_base/src/resource/database/kafka.db,UNIQUE constraint failed: developer_commit.commit_id
+../refactor_code_base/src/resource/database/solr.db,UNIQUE constraint failed: developer_commit.commit_id
+../refactor_code_base/src/resource/database/solr.db,UNIQUE constraint failed: amend_commit.commit_id
+../refactor_code_base/src/resource/database/acs-aem-commons.db,PriorCurrentRepoExperience.merge_list() takes 3 positional arguments but 4 were given
+../refactor_code_base/src/resource/database/acs-packaging.db,PriorCurrentRepoExperience.merge_list() takes 3 positional arguments but 4 were given
+../refactor_code_base/src/resource/database/activiti.db,PriorCurrentRepoExperience.merge_list() takes 3 positional arguments but 4 were given
+../refactor_code_base/src/resource/database/aem-core-wcm-components.db,PriorCurrentRepoExperience.merge_list() takes 3 positional arguments but 4 were given
+../refactor_code_base/src/resource/database/airbyte-platform.db,PriorCurrentRepoExperience.merge_list() takes 3 positional arguments but 4 were given
+../refactor_code_base/src/resource/database/assertj.db,UNIQUE constraint failed: repository.url
+../refactor_code_base/src/resource/database/assertj.db,UNIQUE constraint failed: repository.url

@@ -1,0 +1,16 @@
+{
+    "experience_levels": [
+        {
+            "code": "low",
+            "score": 10
+        },
+        {
+            "code": "medium",
+            "score": 20
+        },
+        {
+            "code": "high",
+            "score": 30
+        }
+    ]
+}

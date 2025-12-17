@@ -1,0 +1,10 @@
+DELETE FROM commit_file where repository_id = 19;
+DELETE FROM commit_class where repository_id = 19;
+DELETE FROM commit_method where repository_id = 19;
+DELETE FROM prior_commit where repository_id = 19;
+DELETE FROM amend_commit where repository_id = 19;
+DELETE FROM developer_commit where repository_id = 19;
+DELETE FROM method where repository_id = 19;
+DELETE FROM class where repository_id = 19;
+DELETE FROM file where repository_id = 19;
+DELETE FROM repository where repository_id = 19;
