@@ -2,9 +2,9 @@
 name = "codebase_analysis"
 version = "2024.0.0"
 dependencies = [
-  "utility @ git+https://git.dcs.gla.ac.uk/DerekSomerville/utility",
-  "class_structure @ git+https://git.dcs.gla.ac.uk/DerekSomerville/class_structure",
-  "repository_save @ git+https://git.dcs.gla.ac.uk/DerekSomerville/repository_save",
+  "utility @ git+https://github.com/DerekSomervilleUofG/research_utility",
+  "class_structure @ git+https://github.com/DerekSomervilleUofG/research_class_structure",
+  "repository_save @ git+https://github.com/DerekSomervilleUofG/research_repository_save",
 ]
 requires-python = ">=3.9"
 authors = [
@@ -20,7 +20,7 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://git.dcs.gla.ac.uk/DerekSomerville/codebase_analysis.git"
+Repository = "https://github.com/DerekSomervilleUofG/research_codebase_analysis.git"
 
 [tool.setuptools]
 packages = ["codebase_analysis", "codebase_analysis.class_structure", "codebase_analysis.population_mapping"]
